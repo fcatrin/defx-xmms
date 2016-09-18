@@ -1,0 +1,5 @@
+2003-11-25  Franco Catrin L. <fcatrin@tuxpan.cl>
+        * Applied patch from Stanislav Brabec 
+	  <sbrabec@suse.cz>
+	* Patch solves problem with config dialog
+	  and fixes Makefile for other architectures
